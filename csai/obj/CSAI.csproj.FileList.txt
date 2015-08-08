@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\CSAI.dll
+bin\Debug\CSAI.pdb
+bin\Debug\CSAIInterfaces.dll
+bin\Debug\CSAIInterfaces.pdb
+obj\Debug\CSAI.dll
+obj\Debug\CSAI.pdb
+obj\Debug\CSharpAI.ControlPanel.resources
+obj\Debug\CSAI.csproj.GenerateResource.Cache

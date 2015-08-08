@@ -1,0 +1,16 @@
+todo:
+
+- effective scouting: only visit places havent seen before, move scout to unknown places nearby, use radar
+- effective raiding: effective scouting + target mexes, avoid llts, put factory in between raider and commander
+- create something to build economy, strategy buildeconomy?, advanced vehicle + mobile fusion * x + advanced constructor + moho metalos * x + advanced personel + fark * x
+- create nuking capabilities (?)
+- create bomber raids
+- create brawler raids (?)
+
+done:
+
+- scavenge metal
+- area maps
+- getfeatures
+- attack groupings
+- playstyles

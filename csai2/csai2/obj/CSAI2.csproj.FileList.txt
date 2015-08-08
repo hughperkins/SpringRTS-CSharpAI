@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\CSAIInterfaces.dll
+bin\Debug\CSAIInterfaces.pdb
+bin\Debug\CSAI.dll
+bin\Debug\CSAI.pdb
+obj\Debug\CSAI.dll
+obj\Debug\CSAI.pdb
+bin\Release\CSAI.dll
+bin\Release\CSAI.pdb
+bin\Release\CSAIInterfaces.dll
+bin\Release\CSAIInterfaces.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CSAI.dll
+obj\Release\CSAI.pdb

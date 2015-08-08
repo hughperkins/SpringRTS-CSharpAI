@@ -1,0 +1,40 @@
+XPStyle on
+
+Name "CSAI"
+
+OutFile "CSAISetup.exe"
+
+;ReadRegStr $springclientstring "HKLM Software\Microsoft\Windows\CurrentVersion\App Paths\SpringClient.exe" ""
+;StrCpy $springinstallpath $springclientstring -17
+
+InstallDir $PROGRAMFILES\TASpring
+; InstallDir $springinstallpath
+
+Page directory
+Page instfiles
+
+Section "" ;No components page, name is not important
+
+;ReadEnvStr $windir WINDIR
+IfFileExists "$windir\Microsoft.Net\Framework\v1.1.4322\System.dll" frameworkfound 0
+IfFileExists "$windir\Microsoft.Net\Framework\v2.0.50727\System.dll" frameworkfound 0
+
+Abort "Framework .Net 1.1 or 2.0 not detected.  Please install Framework .Net 1.1 then try again"
+
+frameworkfound:
+
+SetOutPath $INSTDIR\AI\Bot-libs
+  File CSAILoader\csailoader.dll
+  File CSAILoader\csailoader.xml
+  
+SetOutPath $INSTDIR
+  File CSAIInterfaces\csaiinterfaces.dll
+  File CSAIInterfaces\csaiinterfaces.pdb
+
+SetOutPath $INSTDIR\AI\CSAI
+  File CSAI\CSAI.dll
+  File CSAI\CSAI.pdb
+
+SectionEnd ; end the section
+
+

@@ -1,0 +1,78 @@
+Just my personal notes on tactics /strategies.  Have to put these somewhere, just ignore them ;-)
+
+AASS221:
+
+Small-2006918.sdf
+
+attack 2 23:30
+attack 3
+nuke base 32:20
+attack 4
+nuke nothing in base 34:07
+nuke frontline 36:51, antid
+attack 5, bulldogs 36:51
+nuke vs ships + hover attack + bulldog attack 45:43
+48:46 other side has bertha
+
+troops:
+
+minor melee attack:
+- rocket kbot
+
+major melee
+- bulldog
+- maverick kbot
+
+minor artillery:
+- small artillery tank
+
+minor sea melee
+- small corvette
+- anaconda hovertank
+
+major sea melee
+- cruiser
+
+long-range artillery:
+- bertha
+- nuke
+
+nuke strategy:
+- frontline
+- base
+
+anti-air:
+- on water: anti-air ship (level 2)
+- on air: phalanx anti-air flak vehicle
+
+
+
+strategies:
+- frontal assault, melee
+- combomb
+- nuke
+- bertha
+
+
+XTA:
+
+#85 SmallSupreme
+
+level 2 air brawler gunship
+*** eagle radar plane ***
+level 1 air avenger fighter
+
+level 1 jetthro (lots)  + radar
+level 1 rocko
+
+lots of metalmakers
+moho metal maker
+
+Ambusher pop-up heavy canon + radar
+Defender missile tower (also works against ground)
+Sentinel heavy laser tower works against air
+
+
+Info received:
+SSB: heavy laser tower + 2 ambushers stops rush
+
